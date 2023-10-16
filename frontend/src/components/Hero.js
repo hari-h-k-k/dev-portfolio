@@ -10,7 +10,7 @@ function Hero() {
                 <h1>Xaltan</h1>
               </div>
             </div>
-            <h1>Software Solutions</h1>
+            <h1>Robotics | Automation | Design</h1>
             <h3>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
                 euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat.</h3>
             <button className="get-started-button">Get Started</button>
