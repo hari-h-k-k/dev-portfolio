@@ -4,6 +4,7 @@ function Hero() {
   return (
     <div className="hero">
         <div className="hero-content">
+        <h1>This is in alpha branch</h1>
             <h1>Empowering Ideas, Crafting Solutions</h1>
             <div style={{display:'flex',justifyContent:'center'}}>
               <div className="hero-name">
