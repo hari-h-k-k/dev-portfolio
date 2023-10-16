@@ -1,0 +1,39 @@
+.hero{
+    background-image: url('../assets/hero.jpg');
+    background-size: cover; /* Adjust to your preference */
+    background-repeat: no-repeat; /* Adjust to your preference */
+    background-position: center; /* Adjust to your preference */
+    min-width: 100vw; /* Set width as needed */
+    min-height: 100vh; /* Set height as needed */
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    color: #fff;
+}
+
+.hero-content{
+    width: 60vw;
+}
+
+.hero-name{
+    border: 2px solid #f00;
+    color: #f00;
+    width: 300px;
+}
+
+.get-started-button {
+    border: 2px solid #fff; /* Add your desired border properties here */
+    background-color: transparent; /* Add your desired background color */
+    color: #fff; /* Add your desired text color */
+    font-size:20px;
+    opacity: 100%;
+    height: 50px;
+    width:200px;
+    border-radius: 10px;
+    /* Other button styles as needed */
+}
+
+.get-started-button:hover {
+    background-color: #f00; /* New background color on hover */
+    color: #fff; /* New text color on hover */
+}

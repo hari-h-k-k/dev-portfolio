@@ -1,0 +1,32 @@
+.services{
+    align-items:center;
+    justify-content:center;
+    background-color: #36454F;
+    color: #fff;
+    min-height: 400px;
+    display: flex;
+}
+.services-list{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    min-height: 200px;
+    min-width: 800px;
+    justify-content:space-around;
+}
+.services-item{
+    flex:1;
+    border: 2px solid #f00;
+    display: flex;
+}
+.services-item-icon{
+    height:50px;
+    width:50px;
+    margin-top:10px;
+    border-radius: 50%;
+    border: 2px solid #f00;
+
+}
+.services-item-content{
+    flex:4
+}
