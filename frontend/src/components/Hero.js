@@ -7,7 +7,7 @@ function Hero() {
             <h1>Empowering Ideas, Crafting Solutions</h1>
             <div style={{display:'flex',justifyContent:'center'}}>
               <div className="hero-name">
-                <h1>Xaltan</h1>
+                <h1>Zoid Labs</h1>
               </div>
             </div>
             <h1>Robotics | Automation | Design</h1>
